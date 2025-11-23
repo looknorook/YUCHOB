@@ -1,0 +1,8 @@
+{
+  "name": "CS3 YouTube Piped Repo",
+  "description": "CloudStream 3 plugin for YouTube via Piped API",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/looknorook/cstry-viu/builds/plugins.json"
+  ]
+}
